@@ -44,4 +44,4 @@ Here the Results:
 |      Weird_Loop_With_Range_2 | 1000000 |   354,130.01 ns |  1,740.435 ns |  1,628.004 ns |   353,590.82 ns |         - |
 
 
-I have ran all tests in .NET 6 and I use as parameter Integer Numbers with Arrays of value 100, 100.000 and 1.000.000.000 values.
+I have ran all tests in .NET 6 and I use as parameter Integer Numbers with Arrays of value 100, 100.000 and 1.000.000 values.
